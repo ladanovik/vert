@@ -1,0 +1,101 @@
+  
+  <!doctype html>
+
+  
+			<h1>
+Planifier et développer
+			</h1>
+				<p>
+					
+«Le but est de réaliser que vous faites partie de quelque chose de plus grand que vous, que ce monde a besoin de vous et que seul le meilleur vous attend. Le vrai bonheur commence par le but. "
+			</p>
+      
+<!-- Facebook Pixel Code -->
+
+ <img height="1" width="1" style="display:none"
+ src="https://www.facebook.com/tr?id=00000000000&ev=PageView&noscript=1"
+  />
+  <!-- End Facebook Pixel Code -->
+				<p>
+Inspirez-vous de l'avenir
+
+«Certains depuis l'enfance savent ce qu'ils veulent faire. Mais une telle minorité. Je crois que les personnes âgées de 20 à 25 ans prennent la vie très au sérieux. Ils veulent sentir qu'à leur jeune âge, ils ont déjà atteint de nombreux sommets, au lieu d'apprendre quelque chose et de s'essayer dans différents domaines d'activité. Par conséquent, j'essaie de les pousser sur le chemin de l'expérimentation. »
+
+</p>
+
+
+		<a class="foot" href="policy.html">Privacy Policy</a>
+	</div>
+	<style>
+	* {
+		box-sizing: border-box;
+	}
+	html,
+	body {
+		height: 100%;
+	}
+		.wrp {
+			width: 100%;
+			max-width: 600px;
+			min-height: 100%;
+			margin: 0 auto;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+		}
+		img { 
+			/*max-height: 300px;*/
+			display: block;
+			width: 298px;
+			text-align: center;
+			margin: 0 auto;
+			box-sizing: border-box;
+		 }
+		form {
+			width: 300px;
+			margin: 0 auto;
+		}
+		input {
+			width: 100%;
+			margin-top: 10px;
+			position: relative;
+			height: 35px;
+			left: -1px;
+			font-size: 22px;
+			box-sizing: border-box;
+			padding-left: 25px;
+			border-right: 1px solid #28C76F;
+			border-left: 1px solid #28C76F;
+		}
+		.item {
+			display: block;
+			width: 300px;
+			margin: 0 auto;
+			border: 1px solid #28C76F;
+
+		}
+		.item p {
+			margin: 0;
+		}
+		figure {
+			margin: 0;
+		}
+		figcaption {
+			text-align: center;
+			font-size: 17px;
+			font-family: Arial;
+			padding: 8px 0 0 0;
+		}
+		.btn {
+			border: none;
+			background-image: linear-gradient( 180deg, #81FBB8 10%, #28C76F 100%);
+			color: #00bdf5;
+		}
+		.foot {
+			display: block;
+			width: 100px;
+			margin: 20px auto;
+		}
+	</style>
+
+</div></!doctype>
